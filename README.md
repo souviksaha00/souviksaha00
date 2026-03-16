@@ -43,7 +43,6 @@ I prioritize security in every AI deployment:
 ### 📬 Connect with Me
 
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/souvik-saha-732314197/)
-- 👨‍💻 [GitHub Portfolio](https://github.com/gregoriacrank)
 
 ---
 
